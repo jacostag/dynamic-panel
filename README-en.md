@@ -58,7 +58,8 @@ Due to Gnome's own css and gjs, CSS3's transition tweening animation is actually
 * [Aleksandr Shamaraev](https://github.com/AlexanderShad) - Russian
 * [Egor Vorontsov](https://github.com/egormanga) - Russian (Corrected and improved)
 * [Amerey](https://github.com/Amereyeu) - Czech
-* [Ritam Saha](https://github.com/astro-ray) - English(India)
+* [Ritam Saha](https://github.com/astro-ray) - English (India)
+* [Marcos](https://github.com/moucho) - Spanish (Spain)
 
 # Special Thanks (in no particular order)
 * **Thanks to Gonzague/Paul Fauchon's Transparent Top Bar (Adjustable transparency) for the idea, the implementation of window proximity detection largely refers to this extension**
