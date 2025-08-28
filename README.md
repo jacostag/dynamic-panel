@@ -58,7 +58,8 @@ GNOME面板在工作區切換或從概觀視圖返回時，會短暫閃爍。這
 * [Aleksandr Shamaraev](https://github.com/AlexanderShad) - 俄語 (Russian)
 * [Egor Vorontsov](https://github.com/egormanga) - 俄語 (Russian) (修正並改進)
 * [Amerey](https://github.com/Amereyeu) - 捷克語 (Czech)
-* [Ritam Saha](https://github.com/astro-ray) - 英語(印度)
+* [Ritam Saha](https://github.com/astro-ray) - 英語 (印度)
+* [Marcos](https://github.com/moucho) - 西班牙語 (西班牙)
 
 # 特別鳴謝（排名不分先後）
 * **感謝 Gonzague/Paul Fauchon 的 Transparent Top Bar (Adjustable transparency) 的思路，對視窗靠近的判定實現思路大量參考了此擴充功能**
