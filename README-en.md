@@ -1,6 +1,6 @@
 [繁體中文](README.md) | [简体中文](README-cn.md) 
 
-# Indefinite Suspension of Updates Notice: Due to Gnome's disastrous updates and the attitude of the Gnome team—who even fail to test basic touchscreen functionality during major version updates—I have given up using Gnome. Therefore, this Gnome extension will be indefinitely suspended until the Gnome team makes changes that allow me to use Gnome again.
+# Indefinite Suspension of Updates Notice: Due to Gnome's disastrous updates and the attitude of the Gnome team—who even fail to test basic touchscreen functionality during major version updates—I have given up using Gnome. Therefore, this Gnome extension will be indefinitely suspended until the Gnome team makes changes that make me want to use Gnome again.
 
 # Dynamic Top Panel
 
