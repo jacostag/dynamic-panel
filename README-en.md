@@ -1,5 +1,7 @@
 [繁體中文](README.md) | [简体中文](README-cn.md) 
 
+# Indefinite Suspension of Updates Notice: Due to Gnome's disastrous updates and the attitude of the Gnome team—who even fail to test basic touchscreen functionality during major version updates—I have given up using Gnome. Therefore, this Gnome extension will be indefinitely suspended until the Gnome team makes changes that allow me to use Gnome again.
+
 # Dynamic Top Panel
 
 Originally inspired by the floating panel design in KDE Plasma 6, it presents a translucent floating bar effect when there are no windows nearby, and a solid panel style when windows are close. It supports Gnome's dark and light mode switching. You can set custom colors for dark and light modes respectively. And there are more settings!
